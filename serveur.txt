@@ -1,0 +1,6 @@
+-----serveur tomcat ---
+
+activer serveur :  ./catalina.sh start
+stop serveur :     ./catalina.sh stop
+
+ps -ef | grep tomcat    // verifier l'activation de tomcat ou nn 

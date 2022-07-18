@@ -1,0 +1,16 @@
+/var/log     //chemin d'acces de log
+df -H  // espace disque (lepartition disque)
+
+
+
+-------script pour recuperer donne espace diqque-----------
+while [[ i=1 ]]
+do
+date                                   //afficher date
+df -h /boot|awk '{print $5 " " $6}'    //recuperer le colonne 5 et 6
+sleep 3s                               //repitition chaque 3s
+echo                                   // juste espace entre 2 resultat chaque 3s
+done
+
+
+------script concernons log apache -----------
