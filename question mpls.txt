@@ -1,0 +1,59 @@
+1 Décrivez les rôles de RD et RT dans MPLS L3VPN?
+        *RD (Route-Distinguisher): utiliser pour identifier espace adressage des client
+        *RD : est utilisé uniquement dans le but de garantir que les routes sont uniques par VPN
+
+
+2 Est-il possible d'attribuer un même RD à plusieurs clients?
+   * le RD soit etre unique pour assurer la communication
+
+3 Quels sont les avantages de l'utilisation de MPLS?
+
+4 Quelle est la fonction de LDP dans les réseaux MPLS?
+
+5  Qu'est-ce qu'une classe d'équivalence de transfert (FEC)?
+
+6  Nommez les rôles principaux des routeurs MPLS?
+
+7  Sur quel port UDP le LDP est-il envoyé?
+
+8  Quelle est la différence entre le FIB et le LFIB?
+
+9  Qu'est-ce que VPLS?
+
+10  En quoi le VPS est-il différent du MPLS?
+
+11  Qu'est-ce que MP-iBGP?
+
+12  Comment résoudre le problème MTU sur les réseaux MPLS?
+
+13  Comment définir la configuration MTU sur une interface Link?
+
+14  Comment mesurer la latence sur les réseaux MPLS?
+
+15  Quel protocole de routage est utilisé pour router la balise MPLS (MP BGP / ISIS / OSPF / RIP V2)
+
+16  Quel type d'attaque pourrait être classé comme une adresse Mac?
+
+17  Comment voir les tables de routes BGP sur un réseau MPLS?
+
+18  Comment voir les tables VRF sur un réseau MPLS?
+
+19  Quelle est la fonction du réflecteur de route sur le réseau MPLS?
+
+20  Quelle est la différence entre la commande Network use pour le protocole OSPF et le protocole BGP?
+
+21  Comment pouvez-vous différencier la famille d'adresses VpnV4 et IPV4?
+
+22  Attributs de chemin BGP pour contrôler le trafic entrant et sortant
+
+23  Si le voisin BGP est bloqué en état inactif ou actif, que dois-je faire?
+
+24  Qu'est-ce que l'AAA?
+
+25  Quelle est la différence entre Radius et Tacacs?
+
+26  Qu'est-ce qu'un pare-feu transparent?
+
+27  Qu'est-ce que l'inspection avec état?
+
+28  Qu'est-ce que la bande passante, le délai, la fiabilité, la charge, le MTU?
